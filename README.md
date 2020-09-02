@@ -1,4 +1,4 @@
-### Yo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Jorge Aquino!](https://aquino.design) 
+### Yo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akul Loomba.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aloom3)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akulloomba/)
@@ -21,4 +21,4 @@ Hi, I'm Akul Loomba, a Software Engineer in Atlanta, GA! Currently, I'm a sophom
 **Languages and Tools:**  
 Python, Java, React.js, Visual Studio,
 
-![Akul's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge-e-aquino&show_icons=true&hide_border=true)
+![Akul's GitHub stats](https://github-readme-stats.vercel.app/api?username=aloom3&show_icons=true&hide_border=true)
