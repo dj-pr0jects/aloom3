@@ -14,9 +14,9 @@ Hi, I'm Akul Loomba, a Software Engineer in Atlanta, GA! Currently, I'm a sophom
 
 - 💻 I’m currently working on a Python Virtual Assistant that is similar to Siri or Cortana
 - ☕ I’m currently learning Systems and Networks and Data Structures and Algorithms
-- 🤼‍♂️ I’m looking to collaborate on personal projects;
+- 🤼‍♂️ I’m looking to collaborate on personal projects
 - 😄 Pronouns: He/Him/His
-- 📫 Send me a love letter (and/or general inquiries): aloomba3@gatech.edu;
+- 📫 Send me a love letter (and/or general inquiries): aloomba3@gatech.edu
 
 **Languages and Tools:**  
 Python, Java, React.js, Visual Studio,
