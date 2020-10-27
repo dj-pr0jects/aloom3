@@ -18,6 +18,8 @@ Hi, I'm Akul Loomba, a Software Engineer in Atlanta, GA! Currently, I'm a sophom
 - 😄 Pronouns: He/Him/His
 - 📫 Send me a love letter (and/or general inquiries): aloomba3@gatech.edu
 
+Go check out my [resume](https://resume.creddle.io/resume/5m9qymjg855).
+
 **Languages and Tools:**  
 Python, Java, React.js, Visual Studio,
 
