@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi, I'm Akul Loomba, a Software Engineer in Atlanta, GA! Currently, I'm a sophomore at [Georgia Tech](https://gatech.edu) majoring in Computer Science with concentrations in Intelligence and Info-Internetworks.
+Hi, I'm Akul Loomba, a Software Engineer in Atlanta, GA! Currently, I'm a sophomore at [Georgia Tech](https://gatech.edu) majoring in Computer Science with concentrations in Intelligence and Info-Internetworks. I am interested in Artifical Intelligence and Cybersecurity specifically cloud infrastructures and network security.
 
 
 **About Me:**
